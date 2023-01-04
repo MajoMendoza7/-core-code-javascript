@@ -1,0 +1,7 @@
+Define a function hello that returns 'Hello world!'.
+
+function hello () {
+return 'Hello world!'}
+
+let greeting = hello()
+console.log(greeting)
