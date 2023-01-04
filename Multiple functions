@@ -1,0 +1,13 @@
+Define two functions. The first function a should return 'Hello a!' and the second function b should return 'Hello b!'.
+
+function a () {
+return 'Hello a!'}
+
+function b () {
+return 'Hello b!'}
+
+let hello1 = a()
+let hello2 = b()
+
+console.log(hello1)
+console.log(hello2)
