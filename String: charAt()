@@ -1,0 +1,8 @@
+Write a function shortcut that takes two strings and returns the initial letters of theses strings.
+Example: shortcut('Amnesty', 'International') should return 'AI'.
+
+function shortcut (a,b) {
+return a.charAt(0) + b.charAt(0)
+};
+
+console.log(shortcut("Amnesty", "International"));
